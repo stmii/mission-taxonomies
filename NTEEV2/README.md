@@ -239,7 +239,7 @@ The original NTEE organization types were designated using numerical codes:
 -  12 Monetary Support - Multiple Organizations
 -  19 Nonmonetary Support Not Elsewhere Classified (N.E.C.)
 
-This formulation was insufficient because sometimes the specialty activities occurred within a divion or subdivision instead of an entire major group. For example, an organization might engage in advocacy or fundraising specifically for Charter Schools (an L3 subdivision) or Performance Arts (an L2 division) instead of for the entire major groups of Education or Arts. These nuances were captured by adding additional codes to the original NTEE structure as follows: 
+This formulation was insufficient because sometimes the specialty activities occurred within a divison or subdivision instead of an entire major group. For example, an organization might engage in advocacy or fundraising specifically for Charter Schools (an L3 subdivision) or Performance Arts (an L2 division) instead of for the entire major groups of Education or Arts. These nuances were captured by adding additional codes to the original NTEE structure as follows: 
 
 > B1229
 
